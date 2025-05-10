@@ -19,7 +19,6 @@ A clean, responsive static clone of Udemy's homepage built using **HTML5** and *
 - [Google Fonts (Gabarito)](https://fonts.google.com/specimen/Gabarito)  
 - [Font Awesome 6](https://fontawesome.com/)  
 
-
 ## 🗂️ Project Structure
 
 udemy-clone/
@@ -38,24 +37,8 @@ udemy-clone/
 ├── c8.jpg
 ├── c9.jpg
 
-
-## 🖼️ UI Preview
-
-1. **Main Homepage View**  
-   ![Homepage](images/screenshot1.jpg)
-
-2. **Courses Section**  
-   ![Courses](images/screenshot2.jpg)
-
-3. **Footer**  
-   ![Footer](images/screenshot3.jpg)
-
-
 ## 🌍 Live Link
-
-Click below to see the hosted version:  
-🔗 
-
+[https://manjushree8.github.io/Udemy-clone-Project/]
 
 ## 🙌 Acknowledgements
 
