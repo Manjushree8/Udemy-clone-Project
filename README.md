@@ -1,56 +1,65 @@
 
-# 🎓 Udemy Clone (HTML + CSS)
+# 🎓 Udemy Homepage UI Clone
 
-This is a simple **Udemy clone** created using only **HTML and CSS**. It replicates the UI of the Udemy homepage, including navigation, course listings, category filters, and footer layout. The website is fully responsive and styled for modern aesthetics.
+A clean, responsive static clone of Udemy's homepage built using **HTML5** and **CSS3**. This project was created to practice layout design, Flexbox, and component structuring inspired by Udemy’s actual website.
 
-## 🚀 Features
+## ✨ Highlights
 
-- 🧭 Navigation bar with search input and icons
-- 📂 Course listings (Recommended + Popular)
-- 📚 Category tags for course topics
-- 🛒 Styled course cards with images, names, authors, prices, and ratings
-- 📱 Responsive design with `flexbox` layout
-- 🖤 Footer section with links and branding
+- 🔍 Search bar and intuitive navigation bar  
+- 🎨 Category tags and topic suggestions  
+- 🧩 "Recommended" & "Most Popular" course cards  
+- 📱 Responsive design using Flexbox  
+- 🖼️ Sale banner and structured course thumbnails  
+- ⚙️ Footer with organized links  
 
-## 🧰 Tech Stack
+## 🧪 Tech Stack
 
-- **HTML5**
-- **CSS3**
-- **Google Fonts** (Gabarito, Young Serif)
-- **Font Awesome** (for icons)
+- HTML5  
+- CSS3  
+- [Google Fonts (Gabarito)](https://fonts.google.com/specimen/Gabarito)  
+- [Font Awesome 6](https://fontawesome.com/)  
 
-## 📁 Project Structure
+
+## 🗂️ Project Structure
 
 udemy-clone/
+│
 ├── index.html
 ├── style.css
-├── images/
-│ ├── c1.jpg
-│ ├── c2.jpg
-│ ├── c3.jpg
-│ ├── c4.jpg
-│ ├── c5.jpg
-│ ├── c6.jpg
-│ ├── c8.jpg
-│ ├── c9.jpg
-│ └── sale-image.png
-└── README.md
+├── README.md
+└── images/
+├── sale-image.png
+├── c1.jpg
+├── c2.jpg
+├── c3.jpg
+├── c4.jpg
+├── c5.jpg
+├── c6.jpg
+├── c8.jpg
+├── c9.jpg
 
-## 🔧 How to Run the Project
 
-1. Clone or download this repository.
-2. Open `index.html` in any modern browser.
-3. View and interact with the static layout.
+## 🖼️ UI Preview
 
-## 📌 Note
+1. **Main Homepage View**  
+   ![Homepage](images/screenshot1.jpg)
 
-- This project does **not use JavaScript**.
-- It is for **educational and practice purposes** only.
-- No backend or real data — all content is static.
+2. **Courses Section**  
+   ![Courses](images/screenshot2.jpg)
 
-## ✍️ Author
+3. **Footer**  
+   ![Footer](images/screenshot3.jpg)
 
-- **Manju** – Front-end Developer in training
 
+## 🌍 Live Link
+
+Click below to see the hosted version:  
+🔗 
+
+
+## 🙌 Acknowledgements
+
+This project was built as a learning clone for layout & design practice. Not affiliated with Udemy.  
+If you liked it, drop a ⭐ and share with fellow devs!
 
 
