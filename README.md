@@ -39,13 +39,13 @@ udemy-clone/
 Here are some screenshots:
 
 1. Homepage View:
-   ![Homepage](udemy-clone\Screenshots\Screenshot1.jpg)
+   ![Homepage](Screenshots/Screenshot1.jpg)
 
 2. Course Section:
-   ![Course Section](udemy-clone\Screenshots\Screenshot2.jpg)
+   ![Course Section](Screenshots\Screenshot2.jpg)
 
 3. Footer View:
-   ![Footer](udemy-clone\Screenshots\Screenshot3.jpg)
+   ![Footer](Screenshots\Screenshot3.jpg)
    
 ## 🌍 Live Link
 [https://manjushree8.github.io/Udemy-clone-Project/]
