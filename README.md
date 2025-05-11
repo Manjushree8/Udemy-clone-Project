@@ -37,7 +37,7 @@ udemy-clone/
 ├── c8.jpg
 ├── c9.jpg
 
-Here are some screenshots of the Udemy Homepage Clone:
+Here are some screenshots:
 
 1. Homepage View:
    ![Homepage](images/screenshot1.jpg)
