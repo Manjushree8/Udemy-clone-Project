@@ -42,10 +42,10 @@ Here are some screenshots:
    ![Homepage](Screenshots/Screenshot1.jpg)
 
 2. Course Section:
-   ![Course Section](Screenshots\Screenshot2.jpg)
+   ![Course Section](Screenshots/Screenshot2.jpg)
 
 3. Footer View:
-   ![Footer](Screenshots\Screenshot3.jpg)
+   ![Footer](Screenshots/Screenshot3.jpg)
    
 ## 🌍 Live Link
 [https://manjushree8.github.io/Udemy-clone-Project/]
