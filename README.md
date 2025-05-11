@@ -37,6 +37,17 @@ udemy-clone/
 ├── c8.jpg
 ├── c9.jpg
 
+Here are some screenshots of the Udemy Homepage Clone:
+
+1. Homepage View:
+   ![Homepage](images/Homepageview.jpg)
+
+2. Course Section:
+   ![Course Section](images/courses.jpg)
+
+3. Footer View:
+   ![Footer](images/Footer.jpg)
+
 ## 🌍 Live Link
 [https://manjushree8.github.io/Udemy-clone-Project/]
 
