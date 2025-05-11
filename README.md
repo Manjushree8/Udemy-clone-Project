@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a913e8c1-5b06-4ecf-8ac8-e599ac1ed5cd)
 # 🎓 Udemy Homepage UI Clone
 
 A clean, responsive static clone of Udemy's homepage built using **HTML5** and **CSS3**. This project was created to practice layout design, Flexbox, and component structuring inspired by Udemy’s actual website.
